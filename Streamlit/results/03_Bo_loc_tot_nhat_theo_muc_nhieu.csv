@@ -1,0 +1,7 @@
+﻿Noise,Best_MSE,MSE,Best_PSNR,PSNR,Best_SSIM,SSIM
+Gaussian 10%,Bilateral,144.181944,Bilateral,26.820914,Bilateral,0.707248
+Gaussian 20%,Gaussian 5x5,320.331566,Gaussian 5x5,23.245752,Gaussian 5x5,0.527959
+Gaussian 30%,Mean 5x5,511.982200,Mean 5x5,21.318085,Mean 5x5,0.425332
+Salt-Pepper 10%,Median 3x3,113.856383,Median 3x3,28.827302,Median 3x3,0.864300
+Salt-Pepper 20%,Median 3x3,181.979549,Median 3x3,26.197283,Median 3x3,0.818509
+Salt-Pepper 30%,Median 5x5,245.526593,Median 5x5,25.387513,Median 5x5,0.731165
